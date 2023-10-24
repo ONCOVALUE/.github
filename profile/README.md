@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This Github is for ONCOVALUE.
+This Github organization is for ONCOVALUE project.
